@@ -4,6 +4,9 @@
 
 ## Processo de Desenvolvimento
 > A versão atual, demonstrada na DemoFinal, passou por várias fases de desenvolvimento
+> 
+> ![Processo](https://github.com/beatrizfsantos/PalcoDigital/blob/master/processopalcodigital.png)
+> 
 > 1. Instalação do Software Kinect Studio para e reconhecimento do esqueleto humano.
 > 2. Construção do cenário de background e reconhecimento do esqueleto no cenário em unity com os pontos essenciais.
 > 3. Deteção de movimentos: andar para a direita, esquerda, pular e selecionar.
@@ -21,7 +24,7 @@
 > Todos estes movimentos estãos demonstrados na DemoFinal.
 
 ## Colaboradores
-- Madalena Silva
-- Francisco Miranda
-- Pedro Marcelino
-- Marco Neto
+> - Madalena Silva
+> - Francisco Miranda
+> - Pedro Marcelino
+> - Marco Neto
