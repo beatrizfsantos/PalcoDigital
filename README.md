@@ -10,6 +10,7 @@
 > Todos estes movimentos estãos demonstrados na DemoFinal.
 
 ## Colaboradores
-- Beatriz Santos
 - Madalena Silva
 - Francisco Miranda
+- Pedro Marcelino
+- Marco Neto
