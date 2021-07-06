@@ -7,6 +7,7 @@
 > - Apanhar objetos no cenário: swipe com o braço
 > - Mudar de personagem: saltar e apontar para a personagem, para guardar fazer swipe
 > - Fechar o cenário: swipe down com os dois braços
+> 
 > Todos estes movimentos estãos demonstrados na DemoFinal.
 
 ## Colaboradores
